@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @AndrewPBerg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Howdy, I'm Andrew 👋
 
-<!---
-AndrewPBerg/AndrewPBerg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Making the world a **better** place, by being a **better** person
+
+## About 🩻
+* Computer Science major
+* Second-year @ College of Charleston
+* Class of 2026
+
+## Skills 💡
+* Proficient in Python
+* some Java, Html, Css, Js
+
+## Links 🌴 
+[Website](https://andrewpberg.github.io/) | [LinkedIn](https://www.linkedin.com/in/andrew-berg-0822132b2/) | Discord `side.py` | Emails `andberg9@gmail.com`,`berga2@g.cofc.edu`
