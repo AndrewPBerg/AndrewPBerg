@@ -5,7 +5,7 @@ Making the world a **better** place, by being a **better** person
 ## About 🩻
 * Computer Science major
 * Second-year @ College of Charleston
-* Class of 2026
+* Class of (Winter) 2025
 
 ## Skills 💡
 * Proficient in Python
