@@ -1,6 +1,6 @@
 Howdy, I'm Andrew 👋
 
-Making the world a **better** place, by being a **better** person
+I love Machine learning and automating my tasks. I also workout (still working on automating).
 
 ## About 🩻
 * Computer Science major
