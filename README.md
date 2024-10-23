@@ -10,8 +10,8 @@ Amateur photographer and drone operator.
 * Class of (Winter) 2025
 
 ## Skills 💡
-* Proficient in Python
-* some Java, Html, Css, Js
+* Proficient in Python, Java, English
+* some Html, Css, Js, Tsx, and React
 
 ## Links 🌴 
 [Website](https://andrewpberg.github.io/) | [LinkedIn](https://www.linkedin.com/in/andrew-berg-0822132b2/) | Discord `side.py` | Emails `andberg9@gmail.com`,`berga2@g.cofc.edu`
