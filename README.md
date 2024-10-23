@@ -1,10 +1,12 @@
 Howdy, I'm Andrew 👋
 
-I love Machine learning and automating my tasks. I also workout (still working on automating).
+I love Machine learning and automating my tasks. I also workout (still working on automating, lol). 
+HarborHack 2024 1st place (peeked early).
+Amateur photographer and drone operator.
 
 ## About 🩻
 * Computer Science major
-* Second-year @ College of Charleston
+* Second-year, Senior @ College of Charleston
 * Class of (Winter) 2025
 
 ## Skills 💡
