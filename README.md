@@ -1,7 +1,7 @@
 Howdy, I'm Andrew 👋
 
-I love Machine learning and automating my tasks. I also workout (still working on automating, lol). 
-HarborHack 2024 1st place (peeked early).
+I love Machine learning and automating my tasks. I also workout (still working on automating, lol). 1st-place @ 
+HarborHack 2024.
 Amateur photographer and drone operator.
 
 ## About 🩻
@@ -14,4 +14,4 @@ Amateur photographer and drone operator.
 * some Html, Css, Js, Tsx, and React
 
 ## Links 🌴 
-[Website](https://andrewpberg.github.io/) | [LinkedIn](https://www.linkedin.com/in/andrew-berg-0822132b2/) | Discord `side.py` | Emails `andberg9@gmail.com`,`berga2@g.cofc.edu`
+[Website](https://andrewpberg.github.io/) | [LinkedIn](https://www.linkedin.com/in/andrew-berg-0822132b2/) | Discord `side.py` | Emails `andberg9@gmail.com`
